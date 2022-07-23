@@ -1,0 +1,55 @@
+.logo {
+    display: block;
+    margin: 0 auto ;
+}
+.search-container{
+    width: auto ;
+    height: auto;
+    background-color: rgb(238, 238, 238);
+    display: block;
+    margin: 0 auto;
+    text-align:center ;
+}
+body{
+    padding: 10px 70px;
+    margin: 0px;
+}
+.search-container p{
+    margin: 0px;
+}
+.search-link1{
+    background-color: rgb(126, 229, 218);
+    width: 37% ;
+    text-align:center ;
+    margin: 3px 0px;
+    padding: 10px;
+}
+.search-link1 p {
+    margin: 0;
+}
+.search-link2{
+    background-color: rgb(112, 204, 194);
+    width: 25%;
+    text-align: center;
+    margin: 3px 2px;
+    font-size:small;
+    padding-top: 5px;
+}
+.search-link3 {
+    width: 40%;
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    margin: 3px 0px;
+    font-size:small;
+}
+.search-link3 p {
+    margin: 0;
+}
+.link-container{
+ display: flex;
+ height: 80px;
+}
+footer p{
+    text-align: center;
+    font-size: small;
+}
